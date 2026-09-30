@@ -1,2 +1,3 @@
 Jauns teksts!
-Vecs teksts.
+Jaunāks teksts!
+
