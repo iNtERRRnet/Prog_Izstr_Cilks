@@ -1,7 +1,11 @@
 x = 17
 y = 4
 
-print(x/y)
-print(x**y)
+def math(x, y):
+    print(x+y)
+    print(x-y)
+    print(x/y)
+    print(x*y)
+    print(x**y)
 
-print(x+y)
+print(math(x, y))
