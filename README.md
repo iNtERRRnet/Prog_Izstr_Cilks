@@ -1,1 +1,2 @@
 Jauns teksts!
+Jaunāks teksts!
