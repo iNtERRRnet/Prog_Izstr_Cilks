@@ -9,3 +9,4 @@ def math(x, y):
     print(x**y)
 
 print(math(x, y))
+print(":)")
